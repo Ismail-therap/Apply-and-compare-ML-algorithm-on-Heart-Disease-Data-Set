@@ -18,6 +18,8 @@ The following algorithms will be applied and compared in this project:
 4. Neural Network (Basic)
 5. CNN [Not yet sure]
 
+We will also investigate whether NLP models are appropriate and effective for this type of prediction or not. We can also apply few unsupervised algorithms like (k-means clustering or hierarchichal clustering) to observe their performance and compare with supervised models. 
+
 ## Results
 The performance of each algorithm will be evaluated using various metrics, such as accuracy, precision, recall, and F1 score. The results will be compared to determine the best algorithm for predicting heart disease in patients.
 
