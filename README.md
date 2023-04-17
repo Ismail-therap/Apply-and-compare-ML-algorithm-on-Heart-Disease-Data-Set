@@ -7,7 +7,7 @@
 In this project, we will apply and compare different machine learning algorithms on the Heart Disease Data Set. The goal is to predict the presence of heart disease in patients based on various health parameters.
 
 ## Data Set
-The data set used in this project can be found here. It consists of 303 samples with 14 columns, including age, sex, blood pressure, cholesterol, and presence of heart disease.
+The data set used in this project can be found here. It consists of 299 complete samples with 14 columns, including age, sex, blood pressure, cholesterol, and presence of heart disease.
 
 ## Machine Learning Algorithms
 The following algorithms will be applied and compared in this project:
