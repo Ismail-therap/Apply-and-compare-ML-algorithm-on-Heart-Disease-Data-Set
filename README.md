@@ -23,8 +23,7 @@ We will also investigate whether NLP models are appropriate and effective for th
 ## Results
 The performance of each algorithm will be evaluated using various metrics, such as accuracy, precision, recall, and F1 score. The results will be compared to determine the best algorithm for predicting heart disease in patients.
 
-## Conclusion
-This project aims to provide a comparative analysis of different machine learning algorithms applied to the Heart Disease Data Set. The final model can be used to predict the presence of heart disease in patients based on their health parameters.
+
 
 
 
