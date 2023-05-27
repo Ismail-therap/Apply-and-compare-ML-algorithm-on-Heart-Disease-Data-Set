@@ -16,7 +16,7 @@ We will use language models and few convensional models to compare their perform
 ### Supervised:
 1. Logistic Regression [Simplest one but many cases most effective and easy to interpret]
 2. Random Forest [Tree-based algorithm]
-3. 
+
 ### Unsupervised:
 1. K-means clustering
 2. SOM
