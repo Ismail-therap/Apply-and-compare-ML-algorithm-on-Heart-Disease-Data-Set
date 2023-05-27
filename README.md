@@ -8,20 +8,24 @@ In this project, we will apply and compare different machine learning algorithms
 
 ## Data Set
 The data set used in this project can be found here. It consists of 299 complete samples with 14 columns, including age, sex, blood pressure, cholesterol, and presence of heart disease.
+https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 ## Machine Learning Algorithms
-The following algorithms will be applied and compared in this project:
+We will use language models and few convensional models to compare their performance in classifying the heart patients. 
 
+### Supervised:
 1. Logistic Regression [Simplest one but many cases most effective and easy to interpret]
 2. Random Forest [Tree-based algorithm]
-3. XGBoost [Effective in many cases]
-4. Neural Network (Basic)
-5. CNN [Not yet sure]
+3. 
+### Unsupervised:
+1. K-means clustering
+2. SOM
 
-We will also investigate whether NLP models are appropriate and effective for this type of prediction or not. We can also apply few unsupervised algorithms like (k-means clustering or hierarchichal clustering) to observe their performance and compare with supervised models. 
+### Language Models:
+1. LSTM
+2. BERT or Fasttext
 
-## Results
-The performance of each algorithm will be evaluated using various metrics, such as accuracy, precision, recall, and F1 score. The results will be compared to determine the best algorithm for predicting heart disease in patients.
+
 
 
 
